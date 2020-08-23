@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>068f2abf-eb1a-4f01-9d4c-713510fa2e50</testSuiteGuid>
+   <testSuiteGuid>9bf0b0d4-df63-413d-945d-364791d8c525</testSuiteGuid>
 </TestSuiteEntity>
